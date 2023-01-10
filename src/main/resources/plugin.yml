@@ -1,0 +1,15 @@
+name: '${project.name}'
+description: '${project.description}'
+author: Jielos
+website: https://github.com/Jielos
+
+version: '${project.version}'
+main: fr.jielos.fallenkingdom_impl.FallenKingdomImpl
+api-version: 1.8
+
+commands:
+  magictool:
+    description: "Permet d'obtenir l'outil magique."
+    aliases:
+      - mt
+    permission: op
