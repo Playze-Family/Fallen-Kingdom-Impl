@@ -20,5 +20,4 @@ public abstract class IComponent {
     public Server getServer() {
         return server;
     }
-
 }
