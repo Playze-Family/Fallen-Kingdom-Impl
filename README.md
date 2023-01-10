@@ -9,7 +9,7 @@ Pour plus de détails, référez-vous au [texte de licence](LICENSE).
 - Développeur(s): Jielos
 
 ## Description
-Permet l'ajout, l’interdiction, le contrôle de la partie de la deuxième édition du Fallen Kingdom de la Playze Family.
+Permet le contrôle de la partie interne de la deuxième édition du Fallen Kingdom de la Playze Family. (ajouts, interdictions d'objets...)
 
 ## Crédits
 - Rediffusion entière de la partie disponible sur [Youtube @Playze](https://www.youtube.com/watch?v=maSA7tYkLn4)
